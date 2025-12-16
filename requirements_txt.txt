@@ -1,0 +1,22 @@
+# Web Framework
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+
+# Google Drive Integration
+google-auth==2.23.4
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.1.1
+google-api-python-client==2.108.0
+
+# Document Parsing
+PyPDF2==3.0.1
+python-docx==1.1.0
+pdfplumber==0.10.3
+PyMuPDF==1.23.8
+
+# AI/OpenAI
+openai==0.28.1
+
+# Utilities
+python-dotenv==1.0.0
