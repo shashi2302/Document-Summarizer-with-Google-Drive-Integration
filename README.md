@@ -182,19 +182,6 @@ __pycache__/
 ### Issue: "Rate limit exceeded"
 **Solution**: OpenAI has rate limits. Add delays between API calls or upgrade your plan
 
-## Extension Ideas
-
-- Add support for more file formats (Excel, PowerPoint)
-- Implement OCR for scanned PDFs using pytesseract
-- Add user authentication and multi-user support
-- Create a database to persist summaries
-- Add file upload functionality
-- Implement batch processing with progress bars
-- Add support for different summary lengths
-- Create PDF report generation
-
-## Code Explanation
-
 ### Key Components:
 
 1. **Google Drive Authentication**: Uses OAuth2 flow with token caching
